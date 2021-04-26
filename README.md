@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erlin1986
 - 👀 I’m interested in DevOps SysOps
 - 🌱 I’m currently learning Kubernetes, AWS , Azure
-- 💞️ I’m looking to collaborate on Docker, bash scriptin, kubernetes, terraform, Azure, AwS
+- 💞️ I’m looking to collaborate on Docker, bash scriptin, kubernetes, terraform, Azure, AwS, bash/Ps script
 - 📫 How to reach me erlinhajdini@yahoo.it
 
 <!---
